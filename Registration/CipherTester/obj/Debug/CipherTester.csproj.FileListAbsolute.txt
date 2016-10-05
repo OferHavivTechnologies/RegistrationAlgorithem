@@ -1,0 +1,11 @@
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\bin\Debug\CipherTester.exe.config
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\bin\Debug\CipherTester.exe
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\bin\Debug\CipherTester.pdb
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\bin\Debug\Cipher.dll
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\bin\Debug\Cipher.pdb
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.csprojResolveAssemblyReference.cache
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.frmMain.resources
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.Properties.Resources.resources
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.csproj.GenerateResource.Cache
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.exe
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\CipherTester\obj\Debug\CipherTester.pdb

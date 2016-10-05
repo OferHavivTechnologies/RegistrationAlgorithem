@@ -1,0 +1,5 @@
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\Cipher\bin\Debug\Cipher.dll
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\Cipher\bin\Debug\Cipher.pdb
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\Cipher\obj\Debug\Cipher.csprojResolveAssemblyReference.cache
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\Cipher\obj\Debug\Cipher.dll
+D:\Backup\OldDrive\Backup\Ofer_Tablet_Vista\Development\C#\Registration\Registration\Cipher\obj\Debug\Cipher.pdb
