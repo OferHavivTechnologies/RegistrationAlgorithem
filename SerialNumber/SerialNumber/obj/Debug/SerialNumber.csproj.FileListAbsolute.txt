@@ -1,0 +1,5 @@
+C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe.config
+C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe
+C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SerialNumber\bin\Debug\SerialNumber.pdb
+C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SerialNumber\obj\Debug\SerialNumber.exe
+C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SerialNumber\obj\Debug\SerialNumber.pdb
