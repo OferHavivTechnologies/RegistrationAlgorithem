@@ -1,4 +1,0 @@
-C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SN\bin\Debug\SN.dll
-C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SN\bin\Debug\SN.pdb
-C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SN\obj\Debug\SN.dll
-C:\Users\Lia\Documents\GitHub\RegistrationAlgorithem\SerialNumber\SN\obj\Debug\SN.pdb
