@@ -9,14 +9,8 @@
 *.pdb
 *.exe
 *.dll
+*.rar
 
+/bin/*
+/obj/*
 
-# Build results
-release/
-Release/
-**/Debug/
-debug/
-Bin/
-Obj/
-bin/
-obj/
