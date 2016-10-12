@@ -77,11 +77,11 @@ namespace SN
             
             for (int d = digitIndex; d > 0; d--)
             {
-                long res = myNumber / (int)(Math.Pow(64, d-1));
+                long res = myNumber / (long)(Math.Pow(64, d-1));
                 //get the representing string
                 _base64 += getRepresentiveChar(res);
 
-                myNumber -= (res * (int)Math.Pow(64, d-1));
+                myNumber -= (res * (long)Math.Pow(64, d-1));
             }
 
         }
@@ -92,7 +92,7 @@ namespace SN
             int i = _base64.Length;
             foreach (char c in _base64)
             {
-                _num += getChar64Value(c) * (int)(Math.Pow(64, i - 1));
+                _num += getChar64Value(c) * (long)(Math.Pow(64, i - 1));
                 i--;
 
             }

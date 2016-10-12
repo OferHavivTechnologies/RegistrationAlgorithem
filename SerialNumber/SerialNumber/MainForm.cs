@@ -228,6 +228,10 @@ namespace SerialNumber
             q.Value = 0xFF;
             Console.WriteLine("{0} 0xFF is {1} in base64", q.Value.ToString(), q.Value64);
 
+            q.Value = 150605;// 18080122092226;
+            Console.WriteLine("{0} is {1} in base64", q.Value.ToString(), q.Value64);
+            q.Value64 = "@gmail.com"; 
+            Console.WriteLine("{0} is {1} in base64", q.Value.ToString(), q.Value64);
 
             try
             {
