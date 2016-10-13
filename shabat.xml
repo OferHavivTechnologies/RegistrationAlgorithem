@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portions>
+	<portion name="האזינו">
+		<dates gregorian="15-10-16" hebrew="י&quot;ג תשרי תשע&quot;ז"/>
+		<location name="jerumsalem">
+			<enter>17:32</enter>
+			<exit>18:44</exit>
+		</location>
+		<location name="tel-aviv">
+			<enter>17:47</enter>
+			<exit>18:45</exit>
+		</location>
+		<location name="haifa">
+			<enter>17:37</enter>
+			<exit>18:44</exit>
+		</location>
+		<location name="bear-sheav">
+			<enter>17:50</enter>
+			<exit>18:46</exit>
+		</location>
+	</portion>
+	<portion name="עוד אחת">
+		<dates gregorian="22-10-16" hebrew="י&quot;ג תשרי תשע&quot;ז"/>
+		<location name="jerumsalem">
+			<enter>17:32</enter>
+			<exit>18:44</exit>
+		</location>
+		<location name="tel-aviv">
+			<enter>17:47</enter>
+			<exit>18:45</exit>
+		</location>
+		<location name="haifa">
+			<enter>17:37</enter>
+			<exit>18:44</exit>
+		</location>
+		<location name="bear-sheav">
+			<enter>17:50</enter>
+			<exit>18:46</exit>
+		</location>
+	</portion>
+</portions>
+
